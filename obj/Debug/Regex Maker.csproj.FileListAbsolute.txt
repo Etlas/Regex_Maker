@@ -1,0 +1,9 @@
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\bin\Debug\Regex Maker.exe.config
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\bin\Debug\Regex Maker.exe
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\bin\Debug\Regex Maker.pdb
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\obj\Debug\Regex Maker.csprojResolveAssemblyReference.cache
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\obj\Debug\Regex_Maker.Form1.resources
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\obj\Debug\Regex_Maker.Properties.Resources.resources
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\obj\Debug\Regex Maker.csproj.GenerateResource.Cache
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\obj\Debug\Regex Maker.exe
+c:\users\tpridgen\documents\visual studio 2013\Projects\Regex Maker\Regex Maker\obj\Debug\Regex Maker.pdb
